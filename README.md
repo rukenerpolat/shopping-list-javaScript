@@ -8,21 +8,21 @@ This is a simple and interactive Item Manager App built with vanilla JavaScript.
 
 ## ✨ Features
 
-📝 Add Items: Users can add new items to the list via an input form.
+✦ Add Items: Users can add new items to the list via an input form.
 
-✏️ Edit Mode: Items can be edited; clicking an item turns the form into edit mode.
+✦ Edit Mode: Items can be edited; clicking an item turns the form into edit mode.
 
-❌ Remove Items: Items can be removed individually by clicking the X icon.
+✦ Remove Items: Items can be removed individually by clicking the X icon.
 
-🧹 Clear All Items: One-click option to remove all items from the list.
+✦ Clear All Items: One-click option to remove all items from the list.
 
-🔍 Real-time Filtering: Users can search and filter items as they type.
+✦ Real-time Filtering: Users can search and filter items as they type.
 
-💾 LocalStorage Support: Items persist across sessions using localStorage.
+✦ LocalStorage Support: Items persist across sessions using localStorage.
 
-⚠️ Validation: Prevents adding empty or duplicate items.
+✦ Validation: Prevents adding empty or duplicate items.
 
-🎨 Dynamic UI Feedback: UI updates based on the number of items.
+✦ Dynamic UI Feedback: UI updates based on the number of items.
 
 ## 🧩 Technologies Used
 
